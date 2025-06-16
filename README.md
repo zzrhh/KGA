@@ -6,7 +6,6 @@ Our paper is available at [KGA: Privacy-Preserving Auditing of Sensitive Multi-h
 
 Knowledge Graph Retrieval-Augmented Generation (KG-RAG) systems integrate structured knowledge graph retrieval with text generation, offering enhanced reasoning capabilities and factual consistency in complex question answering tasks. However, their dependence on external knowledge sources introduces critical concerns regarding the unauthorized collection and use of personal or sensitive information embedded within these graphs. To ensure compliance with data protection regulations such as GDPR and to detect improper data usage, we propose the Knowledge Graph RAG Audit (KGA) framework, which enables users to audit whether their sensitive multi-hop knowledge has been included in KG-RAG systems, even in black-box settings without any prior knowledge of the system. It is effective across open-source and closed source KG-RAG systems and resilient to defense strategies. Experiments demonstrate that KGA achieves an improvement in AUC by 20.6% (compared to the best baseline), while maintaining strong performance under adversarial defenses. Furthermore, we analyze how the auditor’s knowledge of the target system affects performance, offering practical insights for privacy-preserving AI systems. Our code is open-sourced online.
 
-![Audit_pipline.png](./imgs/Audit_pipline.png)
 
 ## Environmental installation
 
