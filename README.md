@@ -1,7 +1,6 @@
 # KGA
 
-This is the official github repository for paper [KGA](XXXX).
-Code originally written by Anlin Wu, github:[alwwwww](https://github.com/alwwwww), E-mail: awu852@aucklanduni.ac.nz
+Our paper is available at [KGA: Privacy-Preserving Auditing of Sensitive Multi-hop Knowledge Membership in KG-RAG Systems](XXXX).
 
 ## Abstract
 
